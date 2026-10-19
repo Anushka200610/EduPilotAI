@@ -1,0 +1,121 @@
+{
+  "timestamp": "2026-10-19T16:20:41.514877+00:00",
+  "total_scenarios_evaluated": 10,
+  "rule_compliance_rate_pct": 100.0,
+  "scenarios_passed": 10,
+  "scenarios_failed": 0,
+  "average_latency_ms": 17.61,
+  "scenarios": [
+    {
+      "scenario_id": "SCEN_01",
+      "name": "Strong Academic Performance",
+      "student_id": "STU1001",
+      "passed": true,
+      "status": "VALIDATED",
+      "latency_ms": 37.16,
+      "concerns_detected": 0,
+      "interventions_count": 1,
+      "details": "Complies with decision rules"
+    },
+    {
+      "scenario_id": "SCEN_02",
+      "name": "Low Attendance (<75%)",
+      "student_id": "STU1016",
+      "passed": true,
+      "status": "VALIDATED",
+      "latency_ms": 16.47,
+      "concerns_detected": 2,
+      "interventions_count": 3,
+      "details": "Complies with decision rules"
+    },
+    {
+      "scenario_id": "SCEN_03",
+      "name": "Low Subject Marks (<40%)",
+      "student_id": "STU1026",
+      "passed": true,
+      "status": "VALIDATED",
+      "latency_ms": 15.71,
+      "concerns_detected": 5,
+      "interventions_count": 6,
+      "details": "Complies with decision rules"
+    },
+    {
+      "scenario_id": "SCEN_04",
+      "name": "Declining Assessment Performance",
+      "student_id": "STU1036",
+      "passed": true,
+      "status": "VALIDATED",
+      "latency_ms": 29.93,
+      "concerns_detected": 5,
+      "interventions_count": 6,
+      "details": "Complies with decision rules"
+    },
+    {
+      "scenario_id": "SCEN_05",
+      "name": "Missing Coursework Assignments",
+      "student_id": "STU1046",
+      "passed": true,
+      "status": "VALIDATED",
+      "latency_ms": 36.99,
+      "concerns_detected": 1,
+      "interventions_count": 2,
+      "details": "Complies with decision rules"
+    },
+    {
+      "scenario_id": "SCEN_06",
+      "name": "Multiple Simultaneous Concerns",
+      "student_id": "STU1056",
+      "passed": true,
+      "status": "VALIDATED",
+      "latency_ms": 15.37,
+      "concerns_detected": 13,
+      "interventions_count": 14,
+      "details": "Complies with decision rules"
+    },
+    {
+      "scenario_id": "SCEN_07",
+      "name": "Incomplete / Missing Records",
+      "student_id": "STU1096",
+      "passed": true,
+      "status": "VALIDATED",
+      "latency_ms": 22.89,
+      "concerns_detected": 1,
+      "interventions_count": 2,
+      "details": "Complies with decision rules"
+    },
+    {
+      "scenario_id": "SCEN_08",
+      "name": "Invalid / Non-Existent Student ID",
+      "student_id": "STU9999",
+      "passed": true,
+      "status": "VALIDATION_FAILED",
+      "latency_ms": 1.53,
+      "concerns_detected": 0,
+      "interventions_count": 0,
+      "details": "Complies with decision rules"
+    },
+    {
+      "scenario_id": "SCEN_09",
+      "name": "Data Invariant Violation (Attended > Held)",
+      "student_id": "SYNTHETIC_TEST",
+      "passed": true,
+      "status": "CAUGHT_BY_CRITIC",
+      "latency_ms": 0.02,
+      "concerns_detected": 0,
+      "interventions_count": 0,
+      "details": "Critic detected invariant error: Invariant violation in CS201: attended (40) > held (30)."
+    },
+    {
+      "scenario_id": "SCEN_10",
+      "name": "Ungrounded Intervention Claim Detection",
+      "student_id": "SYNTHETIC_TEST",
+      "passed": true,
+      "status": "REJECTED_BY_CRITIC",
+      "latency_ms": 0.01,
+      "concerns_detected": 0,
+      "interventions_count": 1,
+      "details": "Critic caught ungrounded claim: Intervention #1: Claims concern type 'UNGROUNDED_BEHAVIOR_ISSUE' which was not identified in student indicators."
+    }
+  ],
+  "methodology_disclaimer": "Evaluation measures deterministic rule-compliance, invariant enforcement, and adversarial error trapping on synthetic benchmark records. It does not claim real-world pedagogical efficacy or student outcome prediction."
+}

@@ -1,0 +1,702 @@
+{
+  "STU1001": {
+    "student_id": "STU1001",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1002": {
+    "student_id": "STU1002",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1003": {
+    "student_id": "STU1003",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1004": {
+    "student_id": "STU1004",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1005": {
+    "student_id": "STU1005",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1006": {
+    "student_id": "STU1006",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1007": {
+    "student_id": "STU1007",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1008": {
+    "student_id": "STU1008",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1009": {
+    "student_id": "STU1009",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1010": {
+    "student_id": "STU1010",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1011": {
+    "student_id": "STU1011",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1012": {
+    "student_id": "STU1012",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1013": {
+    "student_id": "STU1013",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1014": {
+    "student_id": "STU1014",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1015": {
+    "student_id": "STU1015",
+    "archetype": "STRONG_PERFORMANCE",
+    "description": "Strong performer with >85% attendance, >75% marks, all assignments submitted.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1016": {
+    "student_id": "STU1016",
+    "archetype": "LOW_ATTENDANCE",
+    "description": "Attendance concern (<75%) in one or more subjects, standard performance.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1017": {
+    "student_id": "STU1017",
+    "archetype": "LOW_ATTENDANCE",
+    "description": "Attendance concern (<75%) in one or more subjects, standard performance.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1018": {
+    "student_id": "STU1018",
+    "archetype": "LOW_ATTENDANCE",
+    "description": "Attendance concern (<75%) in one or more subjects, standard performance.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1019": {
+    "student_id": "STU1019",
+    "archetype": "LOW_ATTENDANCE",
+    "description": "Attendance concern (<75%) in one or more subjects, standard performance.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1020": {
+    "student_id": "STU1020",
+    "archetype": "LOW_ATTENDANCE",
+    "description": "Attendance concern (<75%) in one or more subjects, standard performance.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1021": {
+    "student_id": "STU1021",
+    "archetype": "LOW_ATTENDANCE",
+    "description": "Attendance concern (<75%) in one or more subjects, standard performance.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1022": {
+    "student_id": "STU1022",
+    "archetype": "LOW_ATTENDANCE",
+    "description": "Attendance concern (<75%) in one or more subjects, standard performance.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1023": {
+    "student_id": "STU1023",
+    "archetype": "LOW_ATTENDANCE",
+    "description": "Attendance concern (<75%) in one or more subjects, standard performance.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1024": {
+    "student_id": "STU1024",
+    "archetype": "LOW_ATTENDANCE",
+    "description": "Attendance concern (<75%) in one or more subjects, standard performance.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1025": {
+    "student_id": "STU1025",
+    "archetype": "LOW_ATTENDANCE",
+    "description": "Attendance concern (<75%) in one or more subjects, standard performance.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1026": {
+    "student_id": "STU1026",
+    "archetype": "LOW_SUBJECT_MARKS",
+    "description": "Low marks (<40%) in one or more subjects despite adequate attendance.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1027": {
+    "student_id": "STU1027",
+    "archetype": "LOW_SUBJECT_MARKS",
+    "description": "Low marks (<40%) in one or more subjects despite adequate attendance.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1028": {
+    "student_id": "STU1028",
+    "archetype": "LOW_SUBJECT_MARKS",
+    "description": "Low marks (<40%) in one or more subjects despite adequate attendance.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1029": {
+    "student_id": "STU1029",
+    "archetype": "LOW_SUBJECT_MARKS",
+    "description": "Low marks (<40%) in one or more subjects despite adequate attendance.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1030": {
+    "student_id": "STU1030",
+    "archetype": "LOW_SUBJECT_MARKS",
+    "description": "Low marks (<40%) in one or more subjects despite adequate attendance.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1031": {
+    "student_id": "STU1031",
+    "archetype": "LOW_SUBJECT_MARKS",
+    "description": "Low marks (<40%) in one or more subjects despite adequate attendance.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1032": {
+    "student_id": "STU1032",
+    "archetype": "LOW_SUBJECT_MARKS",
+    "description": "Low marks (<40%) in one or more subjects despite adequate attendance.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1033": {
+    "student_id": "STU1033",
+    "archetype": "LOW_SUBJECT_MARKS",
+    "description": "Low marks (<40%) in one or more subjects despite adequate attendance.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1034": {
+    "student_id": "STU1034",
+    "archetype": "LOW_SUBJECT_MARKS",
+    "description": "Low marks (<40%) in one or more subjects despite adequate attendance.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1035": {
+    "student_id": "STU1035",
+    "archetype": "LOW_SUBJECT_MARKS",
+    "description": "Low marks (<40%) in one or more subjects despite adequate attendance.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1036": {
+    "student_id": "STU1036",
+    "archetype": "DECLINING_PERFORMANCE",
+    "description": "Steep drop in score (>=15% points) from Quiz 1 to Mid-Term Exam.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1037": {
+    "student_id": "STU1037",
+    "archetype": "DECLINING_PERFORMANCE",
+    "description": "Steep drop in score (>=15% points) from Quiz 1 to Mid-Term Exam.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1038": {
+    "student_id": "STU1038",
+    "archetype": "DECLINING_PERFORMANCE",
+    "description": "Steep drop in score (>=15% points) from Quiz 1 to Mid-Term Exam.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1039": {
+    "student_id": "STU1039",
+    "archetype": "DECLINING_PERFORMANCE",
+    "description": "Steep drop in score (>=15% points) from Quiz 1 to Mid-Term Exam.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1040": {
+    "student_id": "STU1040",
+    "archetype": "DECLINING_PERFORMANCE",
+    "description": "Steep drop in score (>=15% points) from Quiz 1 to Mid-Term Exam.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1041": {
+    "student_id": "STU1041",
+    "archetype": "DECLINING_PERFORMANCE",
+    "description": "Steep drop in score (>=15% points) from Quiz 1 to Mid-Term Exam.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1042": {
+    "student_id": "STU1042",
+    "archetype": "DECLINING_PERFORMANCE",
+    "description": "Steep drop in score (>=15% points) from Quiz 1 to Mid-Term Exam.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1043": {
+    "student_id": "STU1043",
+    "archetype": "DECLINING_PERFORMANCE",
+    "description": "Steep drop in score (>=15% points) from Quiz 1 to Mid-Term Exam.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1044": {
+    "student_id": "STU1044",
+    "archetype": "DECLINING_PERFORMANCE",
+    "description": "Steep drop in score (>=15% points) from Quiz 1 to Mid-Term Exam.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1045": {
+    "student_id": "STU1045",
+    "archetype": "DECLINING_PERFORMANCE",
+    "description": "Steep drop in score (>=15% points) from Quiz 1 to Mid-Term Exam.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1046": {
+    "student_id": "STU1046",
+    "archetype": "MISSING_ASSIGNMENTS",
+    "description": "Multiple missing/overdue assignments despite acceptable exam scores.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1047": {
+    "student_id": "STU1047",
+    "archetype": "MISSING_ASSIGNMENTS",
+    "description": "Multiple missing/overdue assignments despite acceptable exam scores.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1048": {
+    "student_id": "STU1048",
+    "archetype": "MISSING_ASSIGNMENTS",
+    "description": "Multiple missing/overdue assignments despite acceptable exam scores.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1049": {
+    "student_id": "STU1049",
+    "archetype": "MISSING_ASSIGNMENTS",
+    "description": "Multiple missing/overdue assignments despite acceptable exam scores.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1050": {
+    "student_id": "STU1050",
+    "archetype": "MISSING_ASSIGNMENTS",
+    "description": "Multiple missing/overdue assignments despite acceptable exam scores.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1051": {
+    "student_id": "STU1051",
+    "archetype": "MISSING_ASSIGNMENTS",
+    "description": "Multiple missing/overdue assignments despite acceptable exam scores.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1052": {
+    "student_id": "STU1052",
+    "archetype": "MISSING_ASSIGNMENTS",
+    "description": "Multiple missing/overdue assignments despite acceptable exam scores.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1053": {
+    "student_id": "STU1053",
+    "archetype": "MISSING_ASSIGNMENTS",
+    "description": "Multiple missing/overdue assignments despite acceptable exam scores.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1054": {
+    "student_id": "STU1054",
+    "archetype": "MISSING_ASSIGNMENTS",
+    "description": "Multiple missing/overdue assignments despite acceptable exam scores.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1055": {
+    "student_id": "STU1055",
+    "archetype": "MISSING_ASSIGNMENTS",
+    "description": "Multiple missing/overdue assignments despite acceptable exam scores.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1056": {
+    "student_id": "STU1056",
+    "archetype": "MULTIPLE_CONCERNS",
+    "description": "Simultaneous low attendance, failing marks, and missing assignments.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1057": {
+    "student_id": "STU1057",
+    "archetype": "MULTIPLE_CONCERNS",
+    "description": "Simultaneous low attendance, failing marks, and missing assignments.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1058": {
+    "student_id": "STU1058",
+    "archetype": "MULTIPLE_CONCERNS",
+    "description": "Simultaneous low attendance, failing marks, and missing assignments.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1059": {
+    "student_id": "STU1059",
+    "archetype": "MULTIPLE_CONCERNS",
+    "description": "Simultaneous low attendance, failing marks, and missing assignments.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1060": {
+    "student_id": "STU1060",
+    "archetype": "MULTIPLE_CONCERNS",
+    "description": "Simultaneous low attendance, failing marks, and missing assignments.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1061": {
+    "student_id": "STU1061",
+    "archetype": "MULTIPLE_CONCERNS",
+    "description": "Simultaneous low attendance, failing marks, and missing assignments.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1062": {
+    "student_id": "STU1062",
+    "archetype": "MULTIPLE_CONCERNS",
+    "description": "Simultaneous low attendance, failing marks, and missing assignments.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1063": {
+    "student_id": "STU1063",
+    "archetype": "MULTIPLE_CONCERNS",
+    "description": "Simultaneous low attendance, failing marks, and missing assignments.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1064": {
+    "student_id": "STU1064",
+    "archetype": "MULTIPLE_CONCERNS",
+    "description": "Simultaneous low attendance, failing marks, and missing assignments.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1065": {
+    "student_id": "STU1065",
+    "archetype": "MULTIPLE_CONCERNS",
+    "description": "Simultaneous low attendance, failing marks, and missing assignments.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1066": {
+    "student_id": "STU1066",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1067": {
+    "student_id": "STU1067",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1068": {
+    "student_id": "STU1068",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1069": {
+    "student_id": "STU1069",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1070": {
+    "student_id": "STU1070",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1071": {
+    "student_id": "STU1071",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1072": {
+    "student_id": "STU1072",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1073": {
+    "student_id": "STU1073",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1074": {
+    "student_id": "STU1074",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1075": {
+    "student_id": "STU1075",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1076": {
+    "student_id": "STU1076",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1077": {
+    "student_id": "STU1077",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1078": {
+    "student_id": "STU1078",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1079": {
+    "student_id": "STU1079",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1080": {
+    "student_id": "STU1080",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1081": {
+    "student_id": "STU1081",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1082": {
+    "student_id": "STU1082",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1083": {
+    "student_id": "STU1083",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1084": {
+    "student_id": "STU1084",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1085": {
+    "student_id": "STU1085",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1086": {
+    "student_id": "STU1086",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1087": {
+    "student_id": "STU1087",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1088": {
+    "student_id": "STU1088",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1089": {
+    "student_id": "STU1089",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1090": {
+    "student_id": "STU1090",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1091": {
+    "student_id": "STU1091",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1092": {
+    "student_id": "STU1092",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1093": {
+    "student_id": "STU1093",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1094": {
+    "student_id": "STU1094",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1095": {
+    "student_id": "STU1095",
+    "archetype": "TYPICAL_AVERAGE",
+    "description": "Regular student with average attendance (76-88%) and marks (55-75%).",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1096": {
+    "student_id": "STU1096",
+    "archetype": "INCOMPLETE_DATA",
+    "description": "Intentionally missing records (e.g. no attendance or missing exam entries) to test edge cases.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1097": {
+    "student_id": "STU1097",
+    "archetype": "INCOMPLETE_DATA",
+    "description": "Intentionally missing records (e.g. no attendance or missing exam entries) to test edge cases.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  },
+  "STU1098": {
+    "student_id": "STU1098",
+    "archetype": "INCOMPLETE_DATA",
+    "description": "Intentionally missing records (e.g. no attendance or missing exam entries) to test edge cases.",
+    "program": "B.Tech CSE",
+    "section": "B"
+  },
+  "STU1099": {
+    "student_id": "STU1099",
+    "archetype": "INCOMPLETE_DATA",
+    "description": "Intentionally missing records (e.g. no attendance or missing exam entries) to test edge cases.",
+    "program": "B.Tech Data Science",
+    "section": "C"
+  },
+  "STU1100": {
+    "student_id": "STU1100",
+    "archetype": "INCOMPLETE_DATA",
+    "description": "Intentionally missing records (e.g. no attendance or missing exam entries) to test edge cases.",
+    "program": "B.Tech AIML",
+    "section": "A"
+  }
+}
